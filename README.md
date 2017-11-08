@@ -1,6 +1,6 @@
 # WeddingSeatingArrangement                                                    
 ## CSCI-561 Assignment-2
-### Problem description: You need to plan a wedding seating arrangement for n guest. Some of the pairs of guests are friends, some other are enemies and rest of them are indifferent to each other. Friends: Friends or couple need to sit together on a table. Enemies: Enemies hate each other and can't sit at the same table. Indifferent: Guests who are indifferent to each other don't mind sitting at the same table or not.
+Problem description: You need to plan a wedding seating arrangement for n guest. Some of the pairs of guests are friends, some other are enemies and rest of them are indifferent to each other. Friends: Friends or couple need to sit together on a table. Enemies: Enemies hate each other and can't sit at the same table. Indifferent: Guests who are indifferent to each other don't mind sitting at the same table or not.
 
 The following are the contraints of this problem: (a) Each guest should be seated at one and only one table. (b) For any two guests who are Friends, you should seat them at the same table. (c) For any two guests who are Enemies, you should seat them at different tables.
 
